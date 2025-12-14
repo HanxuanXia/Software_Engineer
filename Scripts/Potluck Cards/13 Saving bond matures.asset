@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f63e7d9662c9ea3429fb9a3bd4e6e3da, type: 3}
+  m_Name: 13 Saving bond matures
+  m_EditorClassIdentifier: 
+  cardImg: {fileID: 21300000, guid: 9397ad7d15a532d458e835041b2a7dc8, type: 3}
+  textOnCard: "Savings bond matures, collect \xA3100"
+  rewardMoney: 100
+  penalityMoney: 0
+  moveToBoardIndex: -1
+  collectFromPlayer: 0
+  goToJail: 0
+  jailFreeCard: 0
+  streetRepairs: 0
+  streetRepairsHousePrice: 40
+  streetRepairsHotelPrice: 115

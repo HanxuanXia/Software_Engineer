@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ef1ecef144ef4c428bc05a94bac3e16, type: 3}
+  m_Name: "7 Take a trip to Hove station. If you pass GO collect \xA3200"
+  m_EditorClassIdentifier: 
+  cardImg: {fileID: 21300000, guid: ba249e2885ec1ef418f8afd94a9ad4fe, type: 3}
+  textOnCard: "\"Take a trip to Hove station. If you pass GO collect \xA3200\""
+  rewardMoney: 0
+  penalityMoney: 0
+  moveToBoardIndex: 15
+  payToPlayer: 0
+  nextRailroad: 0
+  nextUtility: 0
+  moveStepsBackwards: 0
+  goToJail: 0
+  jailFreeCard: 0
+  streetRepairs: 0
+  streetRepairsHousePrice: 25
+  streetRepairsHotelPrice: 100
